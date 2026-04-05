@@ -1,0 +1,21 @@
+baseURL = 'https://blog.gchimp.rs/'
+locale = 'en-us'
+title = 'gchimp blog'
+
+theme = "beautifulhugo"
+
+[Params]
+  mainSections = ["post","posts"]
+  selfHosted = true
+  readingTime = true
+  wordCount = true
+  dateFormat = "January 2, 2006"
+  hideAuthor = true
+
+[Params.author]
+    name = "Khang Le"
+    github = "khanghugo"
+    youtube = "@just__khang"
+
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo"
