@@ -48,7 +48,7 @@ The first M6 order arrived on March 12. It felt nice. Not something I was used t
 
 ![scroll stats on https://www.scrolltest.net/](images/first-rant-m6-scroll1.png)
 \
-![scroll stats on https://9g86hgzwkniz.trickle.host/](first-rant-m6-scroll2.png)
+![scroll stats on https://9g86hgzwkniz.trickle.host/](./images/first-rant-m6-scroll2.png)
 
 Well, I might have had a defective unit. Or maybe I just did not get upsold to their best model. Alright, I ordered 8K model.
 
@@ -56,9 +56,9 @@ It is still locked.
 
 Are you telling me, G502, released in 2026, does not have this artificial limit. But this new mouse in 2026, needs its little lock, to protect the encoder from being fried or whatever? At the very least it still feels better than G502. The only way for G502 to be better than M6 is to have a dedicated suck-my-dick button.
 
-![inquiry on the 20ms lock](first-rant-response1.png)
+![inquiry on the 20ms lock](./images/first-rant-response1.png)
 \
-![and no, we won't let you have fun](first-rant-response2.png)
+![and no, we won't let you have fun](./images/first-rant-response2.png)
 
 We are afraid that you found out we spray our product with shit and we can't do anything about it (what are you gonna do about it you little bitch?)
 
@@ -66,4 +66,4 @@ We are afraid that you found out we spray our product with shit and we can't do 
 
 Get M7 model instead. Has none of the down side. It is a proper gaming mouse. Still got my hand cramped like a bitch...
 
-![my hand and m7](first-rant-m7.jpeg)
+![my hand and m7](./images/first-rant-m7.jpeg)
