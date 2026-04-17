@@ -17,7 +17,7 @@ I had been itching to upgrade my... second hand... AMD 6700XT bought in... 2024.
 GIGABYTE Radeon RX 9070 XT Gaming OC 16G Graphics Card, PCIe 5.0, 16GB GDDR6, GV-R9070XTGAMING OC-16GD Video Card 
 ```
 
-![gpu on chair](./images/9070-car-seat.jpg "Me and my bad bitch riding")
+![gpu on chair](./images/9070-car-seat.jpeg "Me and my bad bitch riding")
 
 What does this have anything to do with Super Flower power supply you ask?
 
@@ -31,12 +31,12 @@ So then, I browsed around some forums, found out that **Hardware Busters** is go
 
 ![psu order](./images/psu_order.png)
 
-![psu box](./images/psu-box.jpg)
+![psu box](./images/psu-box.jpeg)
 
 I put the power supply inside my computer.
 
-![guts1](./images/guts1.jpg)
-![guts2](./images/guts2.jpg)
+![guts1](./images/guts1.jpeg)
+![guts2](./images/guts2.jpeg)
 
 Well, the power supply worked. I played Dota 2 for a few matches. I am not sure if this is foreshadowed or not but of course that did not fix the problem. Why would I be able to play E33 and CP2077 at max settings, have the GPU drawing 300W, and be unable to force Dota 2 to draw more than 50W?
 
@@ -102,7 +102,7 @@ If you don't realize the main theme of the story so far, yes, the cable does not
 
 So, I just, like, gave up.
 
-![non functional dual gpu](./images/dual_gpu_cable_less.jpg)
+![non functional dual gpu](./images/dual_gpu_cable_less.jpeg)
 
 ### Months of Being Cableless
 
@@ -136,4 +136,4 @@ On the PSU review side, I think there is a good reason to stick with things that
 
 Fuck USB header for being fragile piece of shit. The housing literally slipped off and I bent my pins when attempting to plug the header.
 
-![piece of shit](./images/bent_pins.jpg "Bent USB header pins")
+![piece of shit](./images/bent_pins.jpeg "Bent USB header pins")
