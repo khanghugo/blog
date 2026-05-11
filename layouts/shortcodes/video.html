@@ -1,0 +1,5 @@
+{{ $src := .Get "src" }}
+<video controls style="width: 100%; max-height: 500px;">
+    <source src="{{ $src }}" type="video/webm">
+    Your browser does not support the video tag.
+</video>
