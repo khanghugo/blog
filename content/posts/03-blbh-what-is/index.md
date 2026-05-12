@@ -100,7 +100,7 @@ Use [Blender](https://www.blender.org/) or something similar.
 
 Uwrap model UV to a 512x512 texture and bake light. Then export the model with [Blender Source Tools](http://steamreview.org/BlenderSourceTools/) along with the baked texture. Compile it with [SvenCoop's studiomdl](https://github.com/khanghugo/gchimp/blob/master/dist/studiomdl.exe) (the link is from a modified version of that compiler to support bigger model size).
 
-![bake simple model](./images/blbh-p2-bake.png "Simple bake without using complicated tools")
+![bake simple model](./images/blbh-p2-bake.jpeg "Simple bake without using complicated tools")
 
 ### Problem #??? -- Wait, that's it? I have a model with baked lighting now
 
